@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.0.2-beta</title><description><![CDATA[<h2>PDF Compressor 0.0.2 beta</h2>
+<ul>
+  <li>Installation automatique et silencieuse de Ghostscript avec PDF Compressor.</li>
+  <li>DÃ©tection d'une installation Ghostscript existante pour Ã©viter une rÃ©installation inutile.</li>
+  <li>TÃ©lÃ©chargement automatique de la derniÃ¨re version Windows 64 bits lors du build.</li>
+  <li>Conservation des scripts CMD de compilation et de publication GitHub.</li>
+</ul>
+]]></description><pubDate>Thu, 16 Jul 2026 23:43:15 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.0.2-beta/PDFCompressor-Setup.exe" sparkle:version="0.0.2" sparkle:shortVersionString="0.0.2-beta" sparkle:sha256="6840d83000f7267160557a98603060576f139d119255a590bf7ef4f13f72ad86" length="113171764" type="application/octet-stream" /></item></channel></rss>

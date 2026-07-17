@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.2.0-beta</title><description><![CDATA[<h2>PDF Compressor 0.2.0 beta</h2>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.3.0-beta</title><description><![CDATA[<h2>PDF Compressor 0.3.0 beta</h2>
 <ul>
-  <li>Ajout dâ€™un Ã©cran Conversions.</li>
-  <li>Export Excel vers PDF via le moteur natif de Microsoft Excel.</li>
-  <li>Conservation possible des rÃ©glages dâ€™impression du classeur.</li>
-  <li>Options dâ€™ajustement des colonnes ou de la feuille sur une page.</li>
-  <li>Conversion de plusieurs images en un document PDF.</li>
-  <li>Conversion des pages dâ€™un PDF en images PNG Ã  150, 200 ou 300 dpi.</li>
-  <li>Conservation des outils dâ€™assemblage, sÃ©paration et extraction de pages.</li>
-  <li>Ghostscript reste inclus dans les sources et vÃ©rifiÃ© avant compilation.</li>
+<li>Nouvelle fenÃªtre de progression inspirÃ©e de VLAN Manager.</li>
+<li>Ã‰tapes fixes avec Ã©tats attente, en cours, terminÃ© et erreur.</li>
+<li>Annulation intÃ©grÃ©e Ã  la fenÃªtre contextuelle.</li>
+<li>Affichage du fichier traitÃ©, de la taille originale, de la cible et du rÃ©sultat.</li>
+<li>FenÃªtre conservÃ©e 2 secondes aprÃ¨s une opÃ©ration rÃ©ussie avec coche verte.</li>
+<li>Progression appliquÃ©e Ã  la compression, lâ€™assemblage, la sÃ©paration, lâ€™extraction et toutes les conversions.</li>
+<li>Les erreurs restent visibles dans la fenÃªtre jusquâ€™Ã  fermeture manuelle.</li>
 </ul>
-]]></description><pubDate>Fri, 17 Jul 2026 19:30:19 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.2.0-beta/PDFCompressor-Setup.exe" sparkle:version="0.2.0" sparkle:shortVersionString="0.2.0-beta" sparkle:sha256="5dbbaaae5e6910a0f0b46d3fd9051c198e644e49398de00959e74a9405b5a337" length="113733488" type="application/octet-stream" /></item></channel></rss>
+]]></description><pubDate>Fri, 17 Jul 2026 19:54:32 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.3.0-beta/PDFCompressor-Setup.exe" sparkle:version="0.3.0" sparkle:shortVersionString="0.3.0-beta" sparkle:sha256="f1e0a059e51c1a2e2c075471273e199fc030868e651ab67192dc6fb79569145f" length="113735748" type="application/octet-stream" /></item></channel></rss>

@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.0.4-beta</title><description><![CDATA[<h2>PDF Compressor 0.0.4 beta</h2>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.0.5-beta</title><description><![CDATA[<h2>PDF Compressor 0.0.5 beta</h2>
 <ul>
-  <li>Alignement du marquage Â« by Marcmouth Â» sur la prÃ©sentation visuelle de VLAN Manager.</li>
-  <li>Ajout dâ€™une barre de menus Fichier, Options et Aide.</li>
-  <li>Ajout de la recherche manuelle des mises Ã  jour.</li>
-  <li>Ajout dâ€™un canal bÃªta sÃ©lectionnable et mÃ©morisÃ© entre les dÃ©marrages.</li>
-  <li>Affichage permanent du canal de mise Ã  jour actif dans lâ€™en-tÃªte.</li>
+  <li>Correction de lâ€™adresse utilisÃ©e pour consulter lâ€™appcast bÃªta publiÃ© sur la branche <code>main</code>.</li>
+  <li>Message plus clair lorsque le fichier dâ€™un canal de mise Ã  jour est indisponible.</li>
+  <li>Taille cible par dÃ©faut portÃ©e de 2 Mo Ã  15 Mo.</li>
+  <li>IntÃ©gration de lâ€™installateur Ghostscript dans lâ€™archive source pour accÃ©lÃ©rer les compilations.</li>
+  <li>VÃ©rification en ligne de la derniÃ¨re version officielle de Ghostscript avant chaque build.</li>
+  <li>RÃ©utilisation du fichier Ghostscript local sâ€™il est Ã  jour et remplacement automatique sâ€™il est obsolÃ¨te.</li>
 </ul>
-]]></description><pubDate>Fri, 17 Jul 2026 09:03:06 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.0.4-beta/PDFCompressor-Setup.exe" sparkle:version="0.0.4" sparkle:shortVersionString="0.0.4-beta" sparkle:sha256="5f98109caa839b6ce0dd315013685dfc9a1b7ac72a66dc6ca0be4e62bc9453d7" length="113179004" type="application/octet-stream" /></item></channel></rss>
+]]></description><pubDate>Fri, 17 Jul 2026 19:22:02 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.0.5-beta/PDFCompressor-Setup.exe" sparkle:version="0.0.5" sparkle:shortVersionString="0.0.5-beta" sparkle:sha256="7b209f739adc4f6652a626f90dd089efa66075dd81ff299e7e185638a1f469ce" length="113172182" type="application/octet-stream" /></item></channel></rss>

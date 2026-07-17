@@ -1,16 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.4.0-beta</title><description><![CDATA[<h2>PDF Compressor 0.4.0 bêta</h2>
-<ul>
-<li>Refonte visuelle complète alignée sur VLAN Manager 1.3.9 bêta.</li>
-<li>Nouveau bandeau supérieur, typographie, navigation horizontale et cartes harmonisées.</li>
-<li>Affichage en temps réel du CPU, de la mémoire du processus et de la mémoire managée .NET.</li>
-<li>Nouveau système de mise à jour entièrement automatique : téléchargement, progression, contrôle SHA-256 et lancement de l’installation.</li>
-<li>L’utilisateur n’a plus besoin d’ouvrir GitHub ni de télécharger manuellement l’installateur.</li>
-<li>Fenêtres de mise à jour et de progression cohérentes avec VLAN Manager.</li>
-<li>Ajout d’un journal des opérations avec copie, export et nettoyage.</li>
-<li>Barre de statut permanente revenant automatiquement à « Prêt » après dix secondes.</li>
-<li>Démarrage maximisé et sélection explicite de la vue Compresser.</li>
-<li>Amélioration des diagnostics et des messages d’erreur.</li>
-<li>Conservation des outils de compression, fusion, séparation, extraction et conversion.</li>
-</ul>
-]]></description><pubDate>Fri, 17 Jul 2026 20:15:52 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.4.0-beta/PDFCompressor-Setup.exe" sparkle:version="0.4.0" sparkle:shortVersionString="0.4.0-beta" sparkle:sha256="da8ec8c52886fb0e75aea81c8bfb986a26cd7f5f06a48af21bdccb87ae5b4ec4" length="113744716" type="application/octet-stream" /></item></channel></rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.5.0-beta</title><description><![CDATA[<h2>PDF Compressor 0.5.0 bêta</h2><ul><li>Migration de la base graphique de VLAN Manager v1.3.9 bêta.</li><li>Bandeau, typographies, ressources CPU/RAM et format de version identiques.</li><li>Navigation par boutons radio identique à VLAN Manager.</li><li>Cartes, tableaux, boutons, marges et barre de statut harmonisés.</li><li>Popups et fenêtres de mise à jour alignés sur la même identité visuelle.</li><li>Conservation de toutes les fonctions PDF de la version précédente.</li></ul>]]></description><pubDate>Fri, 17 Jul 2026 20:27:56 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.5.0-beta/PDFCompressor-Setup.exe" sparkle:version="0.5.0" sparkle:shortVersionString="0.5.0-beta" sparkle:sha256="c877fd17de8cfb9d894c6a88e78dfac461fc4b17a07151c178123218b4fb0a0f" length="113747797" type="application/octet-stream" /></item></channel></rss>

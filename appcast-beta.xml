@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.5.0-beta</title><description><![CDATA[<h2>PDF Compressor 0.5.0 bêta</h2><ul><li>Migration de la base graphique de VLAN Manager v1.3.9 bêta.</li><li>Bandeau, typographies, ressources CPU/RAM et format de version identiques.</li><li>Navigation par boutons radio identique à VLAN Manager.</li><li>Cartes, tableaux, boutons, marges et barre de statut harmonisés.</li><li>Popups et fenêtres de mise à jour alignés sur la même identité visuelle.</li><li>Conservation de toutes les fonctions PDF de la version précédente.</li></ul>]]></description><pubDate>Fri, 17 Jul 2026 20:27:56 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.5.0-beta/PDFCompressor-Setup.exe" sparkle:version="0.5.0" sparkle:shortVersionString="0.5.0-beta" sparkle:sha256="c877fd17de8cfb9d894c6a88e78dfac461fc4b17a07151c178123218b4fb0a0f" length="113747797" type="application/octet-stream" /></item></channel></rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.6.1-beta</title><description><![CDATA[<h2>PDF Compressor 0.6.0 bêta</h2>
+<ul>
+  <li>Ajout d’un organisateur visuel de pages avec miniatures.</li>
+  <li>Réorganisation des pages par glisser-déposer ou boutons gauche/droite.</li>
+  <li>Rotation des pages à 90° vers la gauche ou la droite.</li>
+  <li>Suppression de pages avant création du nouveau document.</li>
+  <li>Génération locale des miniatures avec Ghostscript.</li>
+  <li>Enregistrement dans un nouveau PDF sans modifier le fichier source.</li>
+</ul>
+]]></description><pubDate>Sat, 18 Jul 2026 11:40:25 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.6.1-beta/PDFCompressor-Setup.exe" sparkle:version="0.6.1" sparkle:shortVersionString="0.6.1-beta" sparkle:sha256="da50fdc68db2bd1b5b2db00e16be04bd7a66d39f4a1b4934f973813fc3312404" length="113807782" type="application/octet-stream" /></item></channel></rss>

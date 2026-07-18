@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.6.1-beta</title><description><![CDATA[<h2>PDF Compressor 0.6.0 bêta</h2>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.6.2-beta</title><description><![CDATA[<h2>PDF Compressor 0.6.2-beta</h2>
 <ul>
-  <li>Ajout d’un organisateur visuel de pages avec miniatures.</li>
-  <li>Réorganisation des pages par glisser-déposer ou boutons gauche/droite.</li>
-  <li>Rotation des pages à 90° vers la gauche ou la droite.</li>
-  <li>Suppression de pages avant création du nouveau document.</li>
-  <li>Génération locale des miniatures avec Ghostscript.</li>
-  <li>Enregistrement dans un nouveau PDF sans modifier le fichier source.</li>
+  <li>Uniformisation de la structure des fichiers et scripts avec VLAN Manager.</li>
+  <li>Noms communs pour compiler, publier, valider et sauvegarder.</li>
 </ul>
-]]></description><pubDate>Sat, 18 Jul 2026 11:40:25 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.6.1-beta/PDFCompressor-Setup.exe" sparkle:version="0.6.1" sparkle:shortVersionString="0.6.1-beta" sparkle:sha256="da50fdc68db2bd1b5b2db00e16be04bd7a66d39f4a1b4934f973813fc3312404" length="113807782" type="application/octet-stream" /></item></channel></rss>
+]]></description><pubDate>Sat, 18 Jul 2026 12:53:50 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.6.2-beta/PDFCompressor-Setup.exe" sparkle:version="0.6.2" sparkle:shortVersionString="0.6.2-beta" sparkle:sha256="2ee5827ad23461bff0e00039b4a0eb4e27163bdaa0a982b170b00aa70c23df19" length="113800239" type="application/octet-stream" /></item></channel></rss>

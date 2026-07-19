@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.24-beta</title><description><![CDATA[<!DOCTYPE html>
-<html lang="fr"><head><meta charset="utf-8"><title>PDF Compressor 0.7.24-beta</title></head>
-<body><h1>PDF Compressor 0.7.24-beta</h1><p>Cette version ajoute une fenêtre commune permettant de consulter et d’installer toutes les versions disponibles sur GitHub.</p><ul><li>Affichage des versions stables et bêta.</li><li>Filtre des préversions et des versions antérieures.</li><li>Installation ou réinstallation de la version choisie.</li><li>Avertissement avant un retour à une ancienne version.</li><li>Contrôle SHA-256 lorsque disponible.</li></ul></body></html>
-]]></description><pubDate>Sun, 19 Jul 2026 12:30:52 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.24-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.24" sparkle:shortVersionString="0.7.24-beta" sparkle:sha256="de93346e1e363424620fa91496163e34b1503b7d99dd0b5430f4b741d2aef9f0" length="113810742" type="application/octet-stream" /></item></channel></rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.25-beta</title><description><![CDATA[<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8"><title>PDF Compressor 0.7.25-beta</title></head>
+<body><h1>PDF Compressor 0.7.25-beta</h1><ul>
+<li>Affichage propre des notes de version dans le sélecteur de versions.</li>
+<li>Conversion automatique du HTML en texte lisible avec puces.</li>
+<li>Zone de notes redimensionnée et défilable.</li>
+</ul></body></html>
+]]></description><pubDate>Sun, 19 Jul 2026 12:44:14 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.25-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.25" sparkle:shortVersionString="0.7.25-beta" sparkle:sha256="cc4ee5a23e72f88322298b2f13dbb81b69fc88711907b2d86754447722adcba6" length="113817974" type="application/octet-stream" /></item></channel></rss>

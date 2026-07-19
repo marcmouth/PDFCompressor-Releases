@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.21-beta</title><description><![CDATA[<h2>0.7.21-beta</h2><p><strong>Progression de téléchargement enrichie</strong></p><p>La vitesse de téléchargement, le volume reçu, la taille totale et le temps restant estimé sont à nouveau affichés, via le composant commun de Marcmouth Suite.</p>
-]]></description><pubDate>Sun, 19 Jul 2026 10:49:39 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.21-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.21" sparkle:shortVersionString="0.7.21-beta" sparkle:sha256="cc02a2cd62a880a4ec8f039de15286f6ca3a5365e350c782efef1029902ce655" length="113815066" type="application/octet-stream" /></item></channel></rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.22-beta</title><description><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="utf-8"><title>PDFCompressor 0.7.22-beta</title></head>
+<body>
+<h1>PDF Compressor 0.7.22-beta</h1>
+<ul>
+<li>Version technique destinée uniquement à tester le moteur de mise à jour partagé de Marcmouth Suite.</li>
+<li>Aucune modification fonctionnelle.</li>
+</ul>
+</body>
+</html>
+]]></description><pubDate>Sun, 19 Jul 2026 11:02:46 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.22-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.22" sparkle:shortVersionString="0.7.22-beta" sparkle:sha256="2aae6331ca507ad47c072d74daa3363b6f7217f5b3b8ea40e82d003f0f1013da" length="113809477" type="application/octet-stream" /></item></channel></rss>

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.22-beta</title><description><![CDATA[<!DOCTYPE html>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Mises à jour PDF Compressor bêta</title><description>Canal bêta</description><language>fr-fr</language><item><title>PDF Compressor 0.7.23-beta</title><description><![CDATA[<!DOCTYPE html>
 <html lang="fr">
-<head><meta charset="utf-8"><title>PDFCompressor 0.7.22-beta</title></head>
+<head><meta charset="utf-8"><title>PDF Compressor 0.7.23-beta</title></head>
 <body>
-<h1>PDF Compressor 0.7.22-beta</h1>
+<h1>PDF Compressor 0.7.23-beta</h1>
 <ul>
-<li>Version technique destinée uniquement à tester le moteur de mise à jour partagé de Marcmouth Suite.</li>
+<li>Installation dans C:\Program Files\Marcmouth Suite\PDF Compressor.</li>
+<li>Migration automatique depuis l’ancien dossier C:\Program Files\PDF Compressor.</li>
 <li>Aucune modification fonctionnelle.</li>
 </ul>
 </body>
 </html>
-]]></description><pubDate>Sun, 19 Jul 2026 11:02:46 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.22-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.22" sparkle:shortVersionString="0.7.22-beta" sparkle:sha256="2aae6331ca507ad47c072d74daa3363b6f7217f5b3b8ea40e82d003f0f1013da" length="113809477" type="application/octet-stream" /></item></channel></rss>
+]]></description><pubDate>Sun, 19 Jul 2026 11:39:30 +02:00</pubDate><enclosure url="https://github.com/marcmouth/PDFCompressor-Releases/releases/download/v0.7.23-beta/PDFCompressor-Setup.exe" sparkle:version="0.7.23" sparkle:shortVersionString="0.7.23-beta" sparkle:sha256="e27a861a617db661422dde9dbc9ddef9f46f01afe432bf921190cadcbbe5f4a0" length="113800863" type="application/octet-stream" /></item></channel></rss>
